@@ -7,6 +7,10 @@ const b = () => {
     return "5" 
 }
 
+const d = () => {
+    console.log("from func d");
+}
+
 const e = () => {
    console.log("from e");
    return 5;
